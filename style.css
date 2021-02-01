@@ -1,0 +1,10 @@
+body{
+    background-color: darkslategray;
+}
+h1{
+    color:lightslategray;
+}
+.yes{
+    color: lightseagreen;
+    font-size: 6rem;
+}
