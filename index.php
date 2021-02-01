@@ -9,7 +9,7 @@
 <body>
     <h1>Ceci est un test !</h1>
     <form action="" method="get">
-        <label for="itworks">Est-ce que le test fonctionne-t-il ?</label>
+        <label for="itworks">Est-ce que le test fonctionne ?</label>
         <input type="radio" name="itworks" id="yes" value="yes">
         <label for="yes">Oui !</label>
         <input type="radio" name="itworks" id="no" value="no">
